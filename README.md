@@ -1,6 +1,7 @@
 # Face-Anti-Spoofing
 A simple face anti-spoofing system to judge whether the face is real or fake.<br />
 The system classifies the faces as real or fake based on the model that is trained with publicly available dataset.<br />
+The model was built using Resnet 50 V2 feature vector.<br />
 
 ## Built With
 - [TensorFlow 2](https://www.tensorflow.org/)
