@@ -7,3 +7,4 @@ The model was built using [Resnet 50 V2 feature vector](https://tfhub.dev/google
 - [TensorFlow 2](https://www.tensorflow.org/)
 - [Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
 - [Resnet 50 V2 feature vector](https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/5)
+- [OpenCV](https://opencv.org/)
