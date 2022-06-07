@@ -8,3 +8,6 @@
 - [Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
 - [Resnet 50 V2 feature vector](https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/5)
 - [OpenCV](https://opencv.org/)
+
+## License
+Distributed under the MIT License. See `LICENSE.md` for more information.
